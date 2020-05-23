@@ -2,7 +2,7 @@
   "_fv": 8,
   "_type": "block",
   "definition": {
-    "texture": "dark_dirt",
+    "texture": "dark_oak_planks",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -20,15 +20,15 @@
     "Mx": 1.0,
     "My": 1.0,
     "Mz": 1.0,
-    "name": "Shadow Dirt",
+    "name": "Dark Planks",
     "specialInfo": [],
-    "hardness": 0.8,
-    "resistance": 10.0,
+    "hardness": 1.0,
+    "resistance": 2.3,
     "hasGravity": false,
     "creativeTab": {
       "value": "CUSTOM:SinistraTab"
     },
-    "destroyTool": "shovel",
+    "destroyTool": "axe",
     "customDrop": {
       "value": ""
     },
@@ -39,7 +39,7 @@
     "canProvidePower": false,
     "lightOpacity": 0,
     "material": {
-      "value": "ROCK"
+      "value": "WOOD"
     },
     "tickRate": 10,
     "tickRandomly": false,
@@ -57,11 +57,11 @@
     "reactionToPushing": "NORMAL",
     "isNotColidable": false,
     "soundOnStep": {
-      "value": "GROUND"
+      "value": "WOOD"
     },
     "luminance": 0.0,
     "unbreakable": false,
-    "breakHarvestLevel": 0,
+    "breakHarvestLevel": 1,
     "spawnParticles": false,
     "particleToSpawn": {
       "value": "EXPLOSION_NORMAL"
