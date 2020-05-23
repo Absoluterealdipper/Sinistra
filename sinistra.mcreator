@@ -54,6 +54,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "sinistra_dimension"
+    },
+    {
+      "name": "DarkOAKlog",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_oa_klog"
     }
   ],
   "variable_elements": [],
@@ -64,6 +73,7 @@
       "block.sinistra.dark_dirt": "Dark Dirt",
       "block.sinistra.dark_grass_block": "Dark Grass Block",
       "item.sinistra.sinistra_dimension": "Sinistra Dimension Portal Igniter",
+      "block.sinistra.dark_oa_klog": "Shadow Oak log",
       "itemGroup.tabsinistra_tab": "Sinistra Tab"
     }
   },

@@ -9,21 +9,21 @@
       "value": "CUSTOM:DarkDirt"
     },
     "generateLakes": false,
-    "treeType": 0,
+    "treeType": 1,
     "vanillaTreeType": "Default",
-    "minHeight": 7,
+    "minHeight": 8,
     "spawnVines": false,
     "treeVines": {
-      "value": ""
+      "value": "Blocks.VOID_AIR"
     },
     "treeStem": {
-      "value": ""
+      "value": "CUSTOM:DarkOAKlog"
     },
     "treeBranch": {
-      "value": ""
+      "value": "Blocks.LEAVES#0"
     },
     "treeFruits": {
-      "value": ""
+      "value": "Blocks.VOID_AIR"
     },
     "customColors": true,
     "airColor": {
