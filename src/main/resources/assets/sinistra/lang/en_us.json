@@ -1,7 +1,8 @@
 {
-  "block.sinistra.dark_stone": "Dark Stone",
-  "block.sinistra.dark_dirt": "Dark Dirt",
-  "block.sinistra.dark_grass_block": "Dark Grass Block",
+  "block.sinistra.dark_stone": "Shadow Stone",
+  "block.sinistra.dark_dirt": "Shadow Dirt",
+  "block.sinistra.dark_grass_block": "Shadow Grass Block",
   "item.sinistra.sinistra_dimension": "Sinistra Dimension Portal Igniter",
+  "block.sinistra.dark_planks": "Dark Planks",
   "itemGroup.tabsinistra_tab": "Sinistra Tab"
 }
