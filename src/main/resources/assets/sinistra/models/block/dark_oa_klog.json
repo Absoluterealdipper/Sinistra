@@ -3,10 +3,10 @@
   "textures": {
     "down": "sinistra:blocks/ddark_oak_log_top",
     "up": "sinistra:blocks/ddark_oak_log_top",
-    "north": "sinistra:blocks/ddark_oak_log_top",
-    "east": "sinistra:blocks/ddark_oak_log_top",
-    "south": "sinistra:blocks/ddark_oak_log_top",
-    "west": "sinistra:blocks/ddark_oak_log_top",
+    "north": "sinistra:blocks/ddark_oak_log",
+    "east": "sinistra:blocks/ddark_oak_log",
+    "south": "sinistra:blocks/ddark_oak_log",
+    "west": "sinistra:blocks/ddark_oak_log",
     "particle": "sinistra:blocks/ddark_oak_log_top"
   }
 }
