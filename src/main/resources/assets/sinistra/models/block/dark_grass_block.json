@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sinistra:blocks/dark_dirt",
+    "up": "sinistra:blocks/dark_grass_block_top",
+    "north": "sinistra:blocks/dark_grass_block_side",
+    "east": "sinistra:blocks/dark_grass_block_side",
+    "south": "sinistra:blocks/dark_grass_block_side",
+    "west": "sinistra:blocks/dark_grass_block_side",
+    "particle": "sinistra:blocks/dark_dirt"
+  }
+}

@@ -1,10 +1,71 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "DarkStone",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_stone"
+    },
+    {
+      "name": "SinistraTab",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sinistra_tab"
+    },
+    {
+      "name": "DarkDirt",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_dirt"
+    },
+    {
+      "name": "DarkGrassBlock",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_grass_block"
+    },
+    {
+      "name": "DarkForest",
+      "type": "biome",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_forest"
+    },
+    {
+      "name": "SinistraDimension",
+      "type": "dimension",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sinistra_dimension"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "block.sinistra.dark_stone": "Dark Stone",
+      "block.sinistra.dark_dirt": "Dark Dirt",
+      "block.sinistra.dark_grass_block": "Dark Grass Block",
+      "item.sinistra.sinistra_dimension": "Sinistra Dimension Portal Igniter",
+      "itemGroup.tabsinistra_tab": "Sinistra Tab"
+    }
   },
   "workspaceSettings": {
     "modid": "sinistra",

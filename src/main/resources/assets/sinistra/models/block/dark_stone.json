@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sinistra:blocks/dark_stone",
+    "particle": "sinistra:blocks/dark_stone"
+  }
+}
